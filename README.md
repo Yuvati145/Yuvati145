@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yuvati-bhabal-032b13314">🔗 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://yuvati-portfolio.vercel.app/">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="mailto:yuvatibhabal@gmail.com">📧 Email</a>
+  <a href="mailto:yuvatibhabal@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" /></a>
+  <a href="https://www.linkedin.com/in/yuvati-bhabal-032b13314"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
+  <a href="https://github.com/Yuvati145"><img src="https://skillicons.dev/icons?i=github" height="50" /></a>
 </p>
 
 ---
