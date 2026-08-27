@@ -93,15 +93,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuvati145&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvati145&layout=compact&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   💬 Open to full-stack developer roles and collaborations — feel free to reach out!
 </p>
