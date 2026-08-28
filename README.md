@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.E. in Information Technology (2022–2026), Konkan Gyanpeeth College of Engineering — CGPA 7.47
+- 🎓 B.E. in Information Technology (2022–2026),Mumbai University
 - 💼 Full Stack Web Developer Intern at **SportsNext India Private Limited** (Thane) — June 2026–Present
 - 🛠️ Building full-stack apps with **Python, Django, React.js, and Django REST Framework**
 - 🔗 Designed and integrated 10+ REST API endpoints powering core product and order workflows
