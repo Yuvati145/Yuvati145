@@ -14,7 +14,6 @@
 ### 🚀 About Me
 
 - 🎓 B.E. in Information Technology (2022–2026),Mumbai University
-- 💼 Full Stack Web Developer Intern at **SportsNext India Private Limited** (Thane) — June 2026–Present
 - 🛠️ Building full-stack apps with **Python, Django, React.js, and Django REST Framework**
 - 🔗 Designed and integrated 10+ REST API endpoints powering core product and order workflows
 - ⚡ Optimized MongoDB & MySQL queries across 3+ modules — ~25% faster response time, supporting 500+ concurrent product records
